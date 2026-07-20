@@ -197,6 +197,8 @@ with st.sidebar:
     st.caption("🔗 相关链接")
     st.markdown("[原版女娲 (GitHub)](https://github.com/alchaincyf/nuwa-skill)")
     st.markdown("[DeepSeek 开放平台](https://platform.deepseek.com)")
+    st.markdown("[🌌 我的女娲网页版 (GitHub)](https://github.com/dengzi1219-sys/nuwa-skill-web)")
+    st.link_button("⚡ 支持我（爱发电）", "https://ifdian.net/a/xiaomiyou")
     st.caption("_why-skill 链接（即将上线）_")
 
     st.divider()
