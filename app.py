@@ -726,6 +726,6 @@ elif st.session_state.stage == "result":
 st.divider()
 st.caption(
     "🌌 女娲 · 人格蒸馏 v1.4 | "
-    "基于 [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | "
+    "基于 [nuwa-skill](https://github.com/dengzi1219-sys/nuwa-skill-web) | "
     "蒸馏不编造，不确定处标注推测"
 )
