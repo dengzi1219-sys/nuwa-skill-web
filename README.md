@@ -42,4 +42,4 @@ saves/ # 自动保存目录（不上传）
 - ## 支持项目
 
 如果你觉得这个项目对你有帮助，欢迎通过 [爱发电]((https://ifdian.net/a/xiaomiyou)) 支持我。
-欢迎向xiaomiyou45@outlook.com发送邮箱提供建议
+欢迎向xiaomiyou45@outlook.com发送邮件提供建议
